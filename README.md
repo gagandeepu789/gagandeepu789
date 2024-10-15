@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gagandeepu789
 - 👀 I’m interested in  coding
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on tech enthusiasts.
 - 📫 you can reach me using my email id gagandeepu789@gmail.com and through my instagram handle gagan46deepu
 
