@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gagandeepu789
+- 👋 Hi, I’m Gagan
 - 👀 I’m interested in  coding
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on tech enthusiasts.
